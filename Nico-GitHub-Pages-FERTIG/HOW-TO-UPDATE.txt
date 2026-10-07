@@ -1,0 +1,11 @@
+PORTFOLIO UPDATE — GITHUB PAGES
+
+This archive contains two parts:
+
+1. Upload the contents of the "site" folder into the existing repository folder "Nico-GitHub-Pages-FERTIG". Keep the assets/ and photos/ folders in place and allow the new index.html and matching files in assets/ to replace the old versions.
+2. Upload COPYRIGHT.md from the archive root to the repository root. Keep COPYRIGHT.txt in the website folder; the site links to it.
+3. Leave the existing README.md unchanged.
+4. After the new page is live and checked, the old unused bundles can be removed from Nico-GitHub-Pages-FERTIG/assets/: index-BOT9S3Oz.js and index-C4kq9_VC.css. The updated index.html uses the newly named files instead.
+5. Open the published page on desktop and phone to check the update.
+
+Copyright terms for Nico’s original work are in COPYRIGHT.md and COPYRIGHT.txt. Third-party components remain subject to their own licenses.
