@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f8f7f2"/>
+  <rect x="22" y="22" width="1156" height="586" rx="38" fill="#fff" stroke="#111" stroke-width="6"/>
+  <circle cx="77" cy="77" r="9" fill="#2f63ef"/>
+  <circle cx="105" cy="77" r="9" fill="#ff8f8c"/>
+  <circle cx="133" cy="77" r="9" fill="#ffd25c"/>
+  <text x="600" y="365" text-anchor="middle" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="-16" fill="#101116">Nico<tspan fill="#2f63ef">.</tspan></text>
+  <g transform="translate(985 210) rotate(-10)" stroke="#ff8f8c" stroke-width="15" stroke-linecap="round">
+    <path d="M0 -46V46M-46 0H46M-32 -32L32 32M-32 32L32 -32"/>
+  </g>
+</svg>
